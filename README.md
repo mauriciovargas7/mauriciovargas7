@@ -5,8 +5,7 @@
 <p align="center">
   
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFjdWw3Z2Zkem44ZGluOWxraTZ0Y2R6aGF4ZnprYnBoaDN6Z2E2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d8FUrTFcEZrwYRsxIl/giphy.gif" height="40"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hkZ3R1dHUycTNoOWxpOHRiZ3dwenBldXRyc29idHk5YmwxNHlwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3VKOs98ALt7G3oAiC1/giphy.gif" height="40"/>
+  <img src="https://giphy.com/gifs/reaction-mood-d8FUrTFcEZrwYRsxIl" height="40"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjOGIzZzhscmdlMHptaHg1eTByZ3l3YzhmMmJ1andqbGdibm1lMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EXvj6EsTB63YI/giphy.gif" height="40"/>
   <img src="" height="40"/>
   <img src="" height="40"/>
