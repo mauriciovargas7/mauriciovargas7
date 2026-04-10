@@ -1,11 +1,11 @@
 <h1 align="center">
-  👀 Calma, está carregando <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="40"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3eHQzazZsZ2g1aWI4bm5xem10NWloYmw1YWc1dnNqOWloMzRkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHNCX4Q47hEZZkmLra/giphy.gif" height="40"/> Calma, está carregando <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="40"/>
 </h1>
 
 <p align="center">
   
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN3eHQzazZsZ2g1aWI4bm5xem10NWloYmw1YWc1dnNqOWloMzRkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHNCX4Q47hEZZkmLra/giphy.gif" height="40"/>
+  
 </p>
 
 ## 🛠️ Tecnologias
