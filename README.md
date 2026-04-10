@@ -1,5 +1,5 @@
 <h1 align="center">
-  👀 Git Sync Bot 🟡
+  👀 Calma, está carregando 🟡
 </h1>
 
 <p align="center">
