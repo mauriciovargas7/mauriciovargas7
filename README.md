@@ -1,3 +1,12 @@
+<h1 align="center">
+  👀 Git Sync Bot 🟡
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="40"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="40"/>
+</p>
+
 ## 🛠️ Tecnologias
 
 <p>
